@@ -25,7 +25,7 @@
           <p class="post-date">Heute</p>
           <h3 class="post-title">Ein Webdesigner werden</h3>
           <div class="post-content">
-            <p>Wenn mirjemand vor einem Monat gesagt hätte ,dass ich eine Webseite erstellen könnte, hätte ich ihm nicht geglaubt.</p>
+            <p>Wenn mir jemand vor einem Monat gesagt hätte, dass ich eine Webseite erstellen könnte, hätte ich ihm nicht geglaubt.</p>
             <p>Vor einigen Tagen bin ich über Mimo gestolpert und designe jetzt meinen eigenen Blog.</p>
           </div> <!-- post-content -->
         </div> <!-- post -->
